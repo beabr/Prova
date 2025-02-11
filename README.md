@@ -2,9 +2,9 @@
 
 # Progetto Git
 
-Questo è un esempio di repository Git.
+Questa è una guida su Git.
 
 ## Istruzioni
-1. Clonare la repo
-2. Creare un branch
+1. Forkare la repo
+2. Creare un nuovo branch chiamato feature
 3. Fare modifiche e pusharle
